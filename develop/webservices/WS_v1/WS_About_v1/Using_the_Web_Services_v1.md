@@ -49,7 +49,7 @@ For examples, see [SOAP examples](xref:WS_v1_examples#soap-examples).
 
 For JSON requests, the URL should include the method, in the format `http(s)://{DMA IP}/API/v1/Json.asmx/{Method}`.
 
-The fields for each method will be serialized in a JSON without root element.
+The fields for each method should be JSON serialized and placed in the body of the API request.
 
 For examples, see [JSON examples](xref:WS_v1_examples#json-examples).
 
