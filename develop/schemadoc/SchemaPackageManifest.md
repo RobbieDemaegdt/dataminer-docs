@@ -1,5 +1,6 @@
 ---
 uid: SchemaPackageManifest
+keywords: Install Package
 ---
 
 # Package manifest schema
